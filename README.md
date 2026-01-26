@@ -21,7 +21,7 @@ Hi there 👋
 <br />
 
 - Sponsor
-  - [![Buy Me A Book](https://img.shields.io/badge/yazgadev--blue?style=social&logo=buymeacoffee)](https://buymeacoffee.com/yazgadev)
+  - [![Buy Me A Book](https://img.shields.io/badge/yazgadev--blue?label=BuyMeaCoffee?style=social&logo=buymeacoffee)](https://buymeacoffee.com/yazgadev)
 
 <br />
 
