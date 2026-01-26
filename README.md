@@ -3,14 +3,14 @@ Hi there 👋
 <br />
 
 - My books
-  - 📕 [Quantum Pressure](https://github.com/yazgadev/Quantum-Pressure)
-  - 📘 [Somatosensory Perception](https://github.com/yazgadev/Somatosensory-Perception)
+  - [📕 Quantum Pressure](https://github.com/yazgadev/Quantum-Pressure)
+  - [📘 Somatosensory Perception](https://github.com/yazgadev/Somatosensory-Perception)
 
 <br />
 
-- My Apps
-  - 💻 [YAZGA](https://app.yazga.dev/) - Tamga/Rune markdown writer
-  - 📖 [Irk Bitig](https://irk.yazga.dev/) - Ancient divination book
+- My apps
+  - [ 💻 YAZGA](https://app.yazga.dev/) - Tamga/Rune markdown writer
+  - [ 📖 Irk Bitig](https://irk.yazga.dev/) - Ancient divination book
 
 <br />
 
