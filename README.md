@@ -20,8 +20,8 @@ Hi there 👋
 
 <br />
 
-- Sponsor
-  - [![Buy Me A Book](https://img.shields.io/badge/yazgadev--blue?label=BuyMeaCoffee?style=social&logo=buymeacoffee)](https://buymeacoffee.com/yazgadev)
+- Sponsor me
+  - [![Buy Me A Book](https://img.shields.io/badge/yazgadev?label=BuyMeaCoffee&?style=social&logo=buymeacoffee)](https://buymeacoffee.com/yazgadev)
 
 <br />
 
