@@ -9,8 +9,8 @@ Hi there 👋
 <br />
 
 - My apps
-  - [ ⌨️ YAZGA](https://app.yazga.dev/) - Tamga/Rune markdown writer
-  - [ 📖 Irk Bitig](https://irk.yazga.dev/) - Ancient divination book
+  - [ ⌨️ YAZGA](https://app.yazga.dev/) - a VS Code inspired Tamga/Rune markdown writer
+  - [ 📖 Irk Bitig](https://irk.yazga.dev/) - Ancient Turkic divination book
 
 <br />
 
