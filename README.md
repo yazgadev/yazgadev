@@ -21,7 +21,7 @@
 <br />
 
 - Sponsor me
-  - ![GitHub Sponsors](https://img.shields.io/github/sponsors/yazgadev?style=for-the-badge&logo=github)
+  - ![GitHub Sponsors](https://img.shields.io/github/sponsors/yazgadev?logo=github)
   - [![Buy Me A Book](https://img.shields.io/badge/Buy%20Me%20a%20Book--yellow?style=flat&labelColor=yellow&logo=buymeacoffee)](https://buymeacoffee.com/yazgadev)
 
 <br />
