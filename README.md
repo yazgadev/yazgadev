@@ -16,7 +16,7 @@
 
 - Links
   - [![GitHub](https://img.shields.io/github/followers/yazgadev?style=for-the-badge&logo=github&label=GitHub&link=https%3A%2F%2Fgithub.com%2Fyazgadev)](https://github.com/yazgadev)
-  - [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:&#121;&#097;&#122;&#103;&#097;&#100;&#101;&#118;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;)](mailto:&#121;&#097;&#122;&#103;&#097;&#100;&#101;&#118;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;)
+  - [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=red)](mailto:&#121;&#097;&#122;&#103;&#097;&#100;&#101;&#118;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;)
 
 <br />
 
