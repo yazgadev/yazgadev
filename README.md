@@ -15,8 +15,8 @@
 <br />
 
 - Links
-  - [![Website](https://img.shields.io/badge/-Website-c14438?style=for-the-badge&logo=cloudflarepages&logoColor=white&labelColor=cornflowerblue&color=cornflowerblue)](https://yazga.dev/)
-  - [![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=red)](mailto:&#121;&#097;&#122;&#103;&#097;&#100;&#101;&#118;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;)
+  - [![Website](https://img.shields.io/badge/-Website-c14438?style=for-the-badge&logo=cloudflarepages&logoColor=white&labelColor=indigo&color=2c2c2c)](https://yazga.dev/)
+  - [![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=2c2c2c)](mailto:&#121;&#097;&#122;&#103;&#097;&#100;&#101;&#118;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;)
 
 <br />
 
