@@ -22,7 +22,7 @@
 
 - Sponsor me
   - [![GitHub Sponsors](https://img.shields.io/github/sponsors/yazgadev?style=for-the-badge&logo=github)](https://github.com/sponsors/yazgadev)
-  - [![Buy Me A Book](https://img.shields.io/badge/Buy%20me%20a%20Book--informational?logo=buymeacoffee&style=for-the-badge&logoColor=ffbb00&color=161616&labelColor=161616)](https://buymeacoffee.com/yazgadev)
+  - [![Buy Me A Book](https://img.shields.io/badge/Buy%20me%20a%20Book--informational?logo=buymeacoffee&style=for-the-badge&logoColor=ffbb00&color=2c2c2c&labelColor=2c2c2c)](https://buymeacoffee.com/yazgadev)
 
 <br />
 
