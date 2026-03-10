@@ -2,21 +2,27 @@
 
 <br />
 
-- My books
-  - [📕 Quantum Pressure](https://github.com/yazgadev/Quantum-Pressure)
-  - [📘 Somatosensory Perception](https://github.com/yazgadev/Somatosensory-Perception)
-
-<br />
-
-- My apps
+- Apps
   - [ ⌨️ YAZGA](https://app.yazga.dev/) - The ultimate tool for modern thinkers.
+  - [ 🎹 YAZAR](https://github.com/yazgadev/yazar-obsidian) - A refined vessel for the timeless elegance of primordial glyphs.
   - [ 📖 Irk Bitig](https://irk.yazga.dev/) - Ancient wisdom, modern interface.
 
 <br />
 
+- Science
+  - [📕 Quantum Pressure](https://mergen.yazga.dev/en/quantum_pressure_en)
+  - [📘 Somatosensory Perception](https://mergen.yazga.dev/en/somatosensory_perception_en)
+
+<br />
+
 - Links
-  - [![Website](https://img.shields.io/badge/-Website-c14438?style=for-the-badge&logo=cloudflarepages&logoColor=white&labelColor=indigo&color=2c2c2c)](https://yazga.dev/)
+  - [![Website](https://img.shields.io/badge/-Website-c14438?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=indigo&color=2c2c2c)](https://yazga.dev/)
   - [![Email](https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=2c2c2c)](mailto:contact@yazga.dev)
+
+<br />
+
+- Shop
+  - [![Shop & Gifts](https://img.shields.io/badge/-Shop%20&%20Gifts-c14438?style=for-the-badge&logo=etsy&labelColor=c14438&color=2c2c2c&logoColor=black)](https://shop.yazga.dev)
 
 <br />
 
