@@ -26,11 +26,6 @@
 
 <br />
 
-- Shop
-  - [![Shop & Gifts](https://img.shields.io/badge/-Shop%20&%20Gifts-c14438?style=for-the-badge&logo=etsy&labelColor=c14438&color=2c2c2c&logoColor=black)](https://shop.yazga.dev)
-
-<br />
-
 - Sponsor me
   - [![GitHub Sponsors](https://img.shields.io/badge/-Github-c14438?style=for-the-badge&logo=github&labelColor=2c2c2c&color=2c2c2c)](https://github.com/sponsors/yazgadev)
   - [![Static Badge](https://img.shields.io/badge/-Buy%20Me%20A%20Book-c14438?style=for-the-badge&logo=buymeacoffee&labelColor=2c2c2c&color=2c2c2c)](https://buymeacoffee.com/yazgadev)
