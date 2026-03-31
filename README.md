@@ -3,6 +3,7 @@
 <br />
 
 - Türk Alfabesi / Turkic Alphabet
+  - [ 💬 Türkçe](https://turkce.yazga.dev/)
   - [ 💬 𐱅𐰇𐰼𐰜𐰲𐰀](https://turkce.yazga.dev/)
 
 <br />
