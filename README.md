@@ -10,7 +10,6 @@
 
 - Apps
   - [ ⌨️ YAZGA](https://app.yazga.dev/) - The ultimate tool for modern thinkers.
-  - [ 🎹 YAZAR](https://github.com/yazgadev/yazar-obsidian) - A refined vessel for the timeless elegance of primordial glyphs.
   - [ 📖 Irk Bitig](https://irk.yazga.dev/) - Ancient wisdom, modern interface.
 
 <br />
